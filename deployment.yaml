@@ -18,5 +18,4 @@ spec:
           image: tanuj7777777/tanuj-portfolio:latest
           ports:
             - containerPort: 80
-
-...
+...            
