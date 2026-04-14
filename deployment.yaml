@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: portfolio
-          image: tanuj7777777/tanuj-portfolio:latest
+          image: tanuj7777777/tanuj-portfolio:IMAGE_TAG
           ports:
             - containerPort: 80
 ...            
